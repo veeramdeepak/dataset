@@ -1,0 +1,16 @@
+,Country,Age,Salary,Purchased
+0,India,34,92000,Yes
+1,Sri lanka,22,25000,Yes
+2,China,31,74000,Yes
+3,Sri lanka,29,NaN,No
+4,China,55,98000,Yes
+5,India,24,30000,No
+6,Sri lanka,28,40000,No
+7,India,NaN,60000,No
+8,China,51,89000,Yes
+9,India,44,78000,Yes
+10,Sri lanka,21,20000,No
+11,China,25,30000,Yes
+12,India,33,45000,Yes
+13,India,42,65000,Yes
+14,Sri lanka,33,22000,No
